@@ -17,3 +17,4 @@ QA Portfolio — Михаил
 📫 Контакты
 - Telegram: @Duck_King
 - Email: duckkinggeorgvl@gmail.com
+Expand README with structure and skills
