@@ -1,6 +1,6 @@
- Михаил Рыбин
-Junior QA Engineer
-Город: Иркутск | Telegram: @Duck_King | Email: duckkinggeorgvl@gmail.com | GitHub: github.com/DuckKingGeorg/qa-portfolio
+# Михаил Рыбин
+- Junior QA Engineer
+- Город: Иркутск | Telegram: @Duck_King | Email: duckkinggeorgvl@gmail.com | GitHub: github.com/DuckKingGeorg/qa-portfolio
 
 О СЕБЕ
 Начинающий QA-инженер. Изучил теорию тестирования, тест-дизайн, работаю с DevTools, Postman, SQL, Git. Собрал портфолио на GitHub: 35 тест-кейсов, 10 баг-репортов (включая Critical), Postman-коллекция с API-тестами и автотесты на Python. Ищу Junior-позицию, готов быстро учиться и много работать.
