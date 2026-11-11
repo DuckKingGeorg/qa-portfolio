@@ -14,4 +14,5 @@
 1. Установи Python (версия 3.8+).
 2. Установи зависимости:
    ```bash
-   pip install pytest requests
+   pip install pytest requests'
+   
