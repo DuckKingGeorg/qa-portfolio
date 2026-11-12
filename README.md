@@ -1,4 +1,4 @@
-# Михаил Рыбин
+# Михаил Рыбин [![Python Autotests](https://github.com/DuckKingGeorg/qa-portfolio/actions/workflows/python-tests.yml/badge.svg)](https://github.com/DuckKingGeorg/qa-portfolio/actions/workflows/python-tests.yml)
 - Junior QA Engineer
 - Город: Иркутск | Telegram: @Duck_King | Email: duckkinggeorgvl@gmail.com | GitHub: github.com/DuckKingGeorg/qa-portfolio
 
@@ -17,7 +17,7 @@
 
 ПРАКТИКА И ПРОЕКТЫ
 
-Тестирование веб-приложения SauceDemo: Составил 35 тест-кейсов и чек-лист, нашел и оформил 10 баг-репортов (включая Critical).
+Тестирование веб-приложения SauceDemo: Составил 41 тест-кейсов и чек-лист, нашел и оформил 12 баг-репортов (включая Critical).
 Ссылка: github.com/DuckKingGeorg/qa-portfolio/tree/main/test-cases
 
 Тестирование API JSONPlaceholder: Создал Postman-коллекцию из 6 запросов с автотестами (проверка статус-кодов, структуры JSON, негативные тесты).
