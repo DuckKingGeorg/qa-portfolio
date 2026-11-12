@@ -20,6 +20,8 @@
 Тестирование веб-приложения SauceDemo: Составил 41 тест-кейсов и чек-лист, нашел и оформил 12 баг-репортов (включая Critical).
 Ссылка: github.com/DuckKingGeorg/qa-portfolio/tree/main/test-cases
 
+* **Тест-стратегия SauceDemo:** Документ с описанием подхода к тестированию, рисков и критериев выхода. Ссылка: github.com/DuckKingGeorg/qa-portfolio/tree/main/test-strategy
+  
 Тестирование API JSONPlaceholder: Создал Postman-коллекцию из 6 запросов с автотестами (проверка статус-кодов, структуры JSON, негативные тесты).
 Ссылка: github.com/DuckKingGeorg/qa-portfolio/tree/main/postman
 
