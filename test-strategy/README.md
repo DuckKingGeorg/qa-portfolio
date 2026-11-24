@@ -33,6 +33,7 @@
 * Операционная система: Windows 10.
 * Браузер: Google Chrome 157.0.8103.80 (64 бит).
 * Тестовое приложение: https://www.saucedemo.com/
+
 **Тестовые учётные записи:** 
 * standard_user
 * problem_user
@@ -40,6 +41,7 @@
 * error_user
 * visual_user
 * locked_out_user
+
 **Инструменты:**
 * Chrome DevTools — анализ интерфейса и поведения веб-приложения.
 * GitHub — хранение тестовой документации и результатов тестирования.
